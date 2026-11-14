@@ -1,0 +1,9 @@
+{
+  "code": "ca",
+  "name": "CA",
+  "fullName": "California",
+  "dataDir": "ca",
+  "fips": "06",
+  "sourceUrl": "https://github.com/ACCIDDA/measles-dashboard/tree/dev/public/data",
+  "sourceLabel": "measles-dashboard"
+}
